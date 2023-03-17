@@ -631,7 +631,9 @@ margin-bottom:15px;
 text-shadow: -2.5px 0 black, 0 2.5px black, 2.5px 0 black, 0 -2.5px black;
 }
 .hero{
-background: url("../../assets/img/hero-mob.jpg") center center;
+background: url("../../assets/img/hero-min.gif") center center;
+background-repeat: no-repeat;
+background-size: cover;
 }
 .hero-text h2 {
 font-size:1em;
